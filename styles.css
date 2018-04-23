@@ -14,12 +14,15 @@ body {
     background: black;
     color: yellow;
 }
-a: hover {
+a : hover {
     color: yellow;
 }
-b: hover {
+b : hover {
     color: yellow;
 }
-c: hover {
+c : hover {
+    color: yellow;
+}
+d : hover {
     color: yellow;
 }
