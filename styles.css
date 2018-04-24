@@ -11,6 +11,7 @@ body {
 body {
     text-align: center;
     font-family: "Times New Roman";
+    size: 12pt;
     background: black;
     color: yellow;
 }
