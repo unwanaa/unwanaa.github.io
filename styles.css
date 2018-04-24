@@ -14,14 +14,53 @@ body {
     background: black;
     color: yellow;
 }
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
 a : hover {
     color: yellow;
+}
+
+/* unvisited link */
+b:link {
+    color: red;
+}
+
+/* visited link */
+b:visited {
+    color: green;
 }
 b : hover {
     color: yellow;
 }
+
+/* unvisited link */
+c:link {
+    color: red;
+}
+
+/* visited link */
+c:visited {
+    color: green;
+}
 c : hover {
     color: yellow;
+}
+
+/* unvisited link */
+d:link {
+    color: red;
+}
+
+/* visited link */
+d:visited {
+    color: green;
 }
 d : hover {
     color: yellow;
